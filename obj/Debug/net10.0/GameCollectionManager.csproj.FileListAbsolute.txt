@@ -1,0 +1,14 @@
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\bin\Debug\net10.0\GameCollectionManager.exe
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\bin\Debug\net10.0\GameCollectionManager.deps.json
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\bin\Debug\net10.0\GameCollectionManager.runtimeconfig.json
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\bin\Debug\net10.0\GameCollectionManager.dll
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\bin\Debug\net10.0\GameCollectionManager.pdb
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.AssemblyInfoInputs.cache
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.AssemblyInfo.cs
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.dll
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\refint\GameCollectionManager.dll
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.pdb
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.genruntimeconfig.cache
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\ref\GameCollectionManager.dll
