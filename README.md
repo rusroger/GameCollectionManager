@@ -1,6 +1,6 @@
 # Game Collection Manager
 
-Aplicación desarrollada en C# como parte de mi portfolio de desarrollador.
+Aplicación desarrollada en C# como parte de mi portfolio.
 
 ## Tecnologías
 
