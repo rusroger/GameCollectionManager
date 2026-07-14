@@ -10,16 +10,8 @@ namespace GameCollectionManager.Models
         public string Title { get; set; } = string.Empty;
         public string Developer { get; set; } = string.Empty;
         public DateTime ReleaseDate { get; set; }
-        public List<string> Genres = ["Acción", "Disparos", "Carreras", "RPG"];
-        public List<string> Genres2 = new List<string>()
-{
-    "Acción", "Disparos", "Carreras", "RPG"
-};
-        public List<string> Languages = ["Español", "Catalán", "Inglés", "Francés", "Alemán"];
-        public List<string> Languages2 = new List<string>()
-{
-    "Español", "Catalán", "Inglés", "Francés", "Alemán"
-};
+        public List<string> Genres { get; set; } = [];
+        public List<string> Languages { get; set; } = [];
         public int MetacriticScore { get; set; }
         public double SizeGB { get; set; }
         public int MaxPlayers { get; set; }
