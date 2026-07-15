@@ -12,3 +12,4 @@ C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\n
 C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.pdb
 C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.genruntimeconfig.cache
 C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\ref\GameCollectionManager.dll
+C:\Users\Roger\Documents\CareerChange\Projects\GameCollectionManager\obj\Debug\net10.0\GameCollectionManager.sourcelink.json
